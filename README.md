@@ -1,4 +1,4 @@
-# Telegram chat administration bot
+# Telegram chat bot
 
 ## Launch
 
