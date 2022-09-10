@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from telethon import events
 from telethon.tl.custom import Message
 from telethon.tl.types import InputMediaDice
